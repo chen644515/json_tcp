@@ -1,0 +1,7 @@
+/home/chenxx/jsontest/jsontest/build/CMakeFiles/rebuild_cache.dir
+/home/chenxx/jsontest/jsontest/build/CMakeFiles/edit_cache.dir
+/home/chenxx/jsontest/jsontest/build/src/CMakeFiles/rebuild_cache.dir
+/home/chenxx/jsontest/jsontest/build/src/CMakeFiles/revtest.dir
+/home/chenxx/jsontest/jsontest/build/src/CMakeFiles/sendtest.dir
+/home/chenxx/jsontest/jsontest/build/src/CMakeFiles/edit_cache.dir
+/home/chenxx/jsontest/jsontest/build/src/CMakeFiles/test.dir

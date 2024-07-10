@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sendtest.dir/sendtest.cpp.o  -o ../../bin/sendtest  -ljsoncpp 
